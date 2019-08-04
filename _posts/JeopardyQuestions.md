@@ -9,7 +9,7 @@ comments: true
 ---
 
 ##### Date: August 2, 2019
-## Jeopardy Question Categorie
+## Jeopardy Question Categories
 This was my very first data science project at Lambda School. After only a month of learning basic visualization techniques, statistics, and linear algebra, this is the exploratory project I made.
 I found the dataset browing [r/datasets](https://www.reddit.com/r/datasets/comments/cj3ipd/jeopardy_dataset_with_349000_clues/). It had over 349,000 clues, as well as their questions, categories, values, round, episode date, and comments made by the host, Alex Trebek. 
 
